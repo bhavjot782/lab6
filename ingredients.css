@@ -1,0 +1,128 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bun-top {
+  height: 60px;
+  width: 70%;
+  background: #C29028 ;
+  border-radius: 100px 100px 20px 20px;
+  border-bottom: solid 10px rgba(0,0,0,.1);
+}
+
+.cheese {
+  height: 15px;
+  width: 65%;
+  background: #ffa600	;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.tomato {
+  height: 25px;
+  width: 50%;
+  background-color: #ff0000;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.meatball {
+  height: 60px;
+  width: 70px;
+  background: #b65944;
+  border-radius: 50px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.patty {
+  height: 25px;
+  width: 65%;
+  background: #74380d;
+  border-radius: 15px;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.pickle {
+  height: 30px;
+  width: 50%;
+  background: #228B22 ;
+  border-radius: 0 0 100px 100px;
+  border-bottom: solid 10px 	#228B22;
+}
+
+.onion {
+  width: 40%;
+  background-color: #800080 ;
+  border-top: dotted 20px rgba(212,180,131,.2);
+}
+
+.bun-bottom {
+  height: 50px;
+  width: 70%;
+  background: #C29028;
+  border-radius: 20px 20px 40px 40px;
+  border-top: solid 8px rgba(0,0,0,.1)
+}
+
+.plate {
+  height: 25px;
+  width: 80%;
+  background: #C0C0C0;
+  border-radius: 20px 20px 200px 200px;
+}
+
+.lettuce {
+    background-color: #7AC142;
+    width: 65%;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.bacon {
+  height: 20px;
+  width: 70px;
+  background: #A52A2A ;
+  border-radius: 10px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.advocado {
+    background-color: #568203;
+    width: 60%;
+    height: 20px;
+    border-radius: 5px;
+    
+}
+
+.fries {
+  height: 40px;
+  width: 60px;
+  background: #FFD700  ;
+  border-radius: 10px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.salami {
+  background-color: #fe6c70; 
+  width: 60%;
+  height: 15px;
+  border-radius: 15px;
+}
+
+.olive {
+  width: 50px;
+  height: 50px;
+  background-color: black; 
+  border-radius: 50%; 
+  position: relative;
+  display: inline-block;
+}
+
+.plate2 {
+  height: 25px;
+  width: 80%;
+  background:#71706e ;
+  border-radius: 20px 20px 200px 200px;
+}
+
+
